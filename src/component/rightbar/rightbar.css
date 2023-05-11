@@ -1,0 +1,23 @@
+.rightbar{
+    width: 22vw;
+    height: 96vh;
+    background-color: #272B2F;
+    margin-left: 76vw;
+    padding-top:4vh ;
+
+}
+.balance{
+    width: 12vw;
+    height: 12vh;
+    background-color: aliceblue;
+    margin-left: 2.5vw;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    text-align: center;
+    padding-top: 2vh;
+}

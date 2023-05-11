@@ -1,0 +1,48 @@
+.ContentPage{
+    width: 60vw;
+    height: 96vh;
+    background-color: #212529;
+    float: left;
+    padding: 2vh;
+}
+.logo{
+    width: 15vw;
+    height: 9vh;
+    margin-left: 1vw;
+}
+.intro{
+    width: 18vw;
+    height: 8vh;
+    color: white;
+    margin-top: 4vh;      
+}
+.payments{
+    width: 26vw;
+    height: 45vh;
+     color: white;
+    float: left;
+    margin: 12vh 0 0 2vw;
+}
+.quick-access{
+    width: 26vw;
+    height: 45vh;
+    color: white;
+    margin: 12vh 0 0 31vw;
+}
+.pay-box{
+    width: 8vw;
+    height: 17vh;
+    background-color: #272B2F;
+    margin: 2vh 0 1vh 0.5vw;
+    float: left;
+    border: 1px solid #272B2F ;
+}
+.pay-box:hover{
+    border: 1px solid #ADD8E6;
+}
+.icons{
+    width: 4vw;
+    height: 8vh;
+    margin: 2vh 0 0 1.5vw;
+    
+}
