@@ -14,8 +14,8 @@ const Leftbar = () => {
     <div className='leftbar'>
       <div className='avatar-section'>
         <img src={avatar} className='avatar' alt='avatar-image'/>
-        <h2>Muhammad Ali</h2>
-        <h5 style={{color:'#ADD8E6'}}>#0928AA0</h5>
+        <h2  style={{color:'black'}}>Muhammad Ali</h2>
+        <h5 style={{color:'#20428F'}}>#0928AA0</h5>
       </div><br/>
       <div className='option-bar'>
         <ul>

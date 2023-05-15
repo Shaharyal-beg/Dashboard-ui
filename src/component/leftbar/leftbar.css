@@ -1,8 +1,8 @@
 .leftbar{
     width: 15vw;
-    height: 92vh;
-    background-color: #272B2F;
-    padding-top: 8vh;
+    height: 98vh;
+    background-color: white;
+    padding-top: 1vh;
     float: left;
 }
 .avatar-section{
@@ -39,9 +39,12 @@
     cursor: pointer;
     padding: 5px;
     text-decoration: none;
-    color: white;
+    color: black;
     margin-left: -0.25vw;
 }
 a:hover{
-    background-color:#6472BD;
+    /* background-color:#ADD8E6; */
+    border: 1.5px solid #20428F;
+    border-radius: 8px;
+    
 }

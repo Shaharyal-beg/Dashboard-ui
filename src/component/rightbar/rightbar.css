@@ -1,23 +1,60 @@
 .rightbar{
-    width: 22vw;
-    height: 96vh;
-    background-color: #272B2F;
+    width: 24vw;
+    height: 98vh;
+    background-color: white;
     margin-left: 76vw;
-    padding-top:4vh ;
+    padding-top:2vh ;
 
 }
 .balance{
-    width: 12vw;
+    width: 20vw;
     height: 12vh;
     background-color: aliceblue;
-    margin-left: 2.5vw;
+    margin-left: 2vw;
     background: rgba(255, 255, 255, 0.2);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.3);
-    color: white;
+    color: black;
+    font-size: 20px;
     text-align: center;
-    padding-top: 2vh;
+    padding-top: 5vh;
 }
+
+ table {
+    border: 2px solid none;
+    width: 20vw;
+    height: 40vh;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin: 5vh 0 0 2vw;
+    padding: 0;
+   
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+    color: black;
+  }
+    
+  td {
+    text-align: center;
+  } 
+  .table-container{
+    margin-left: 0.5vw;
+    margin-top: -3vh ;
+  }
+  .status{
+    color:#3AF817;
+  }
+  .ad{
+    width: 20vw;
+    height: 32vh;
+    background-image: url('./ad.jpg');
+    background-size: cover;
+    margin: 2vh 0 0 2.5vw;
+
+  }

@@ -1,7 +1,7 @@
 .ContentPage{
     width: 60vw;
     height: 96vh;
-    background-color: #212529;
+    background-color: #D8EAF4;
     float: left;
     padding: 2vh;
 }
@@ -9,40 +9,64 @@
     width: 15vw;
     height: 9vh;
     margin-left: 1vw;
+    float: left;
+}
+.searchbar{
+    margin-left: 45vw;
+}
+.searchbar input{
+    width: 15vw;
+    height: 5vh;
+    margin-top: 2vh;
+    
 }
 .intro{
     width: 18vw;
     height: 8vh;
-    color: white;
-    margin-top: 4vh;      
+    color: #20428F;
+    margin: 4vh 0 0 1vw;      
 }
 .payments{
     width: 26vw;
     height: 45vh;
-     color: white;
+     color: #20428F;
     float: left;
-    margin: 12vh 0 0 2vw;
+    margin: 6vh 0 0 1vw;
 }
 .quick-access{
     width: 26vw;
     height: 45vh;
-    color: white;
-    margin: 12vh 0 0 31vw;
+    color: #20428F;
+    margin: 6vh 0 0 31vw;
 }
 .pay-box{
-    width: 8vw;
-    height: 17vh;
-    background-color: #272B2F;
+    width: 7.5vw;
+    height: 20vh;
+    background-color: white;
     margin: 2vh 0 1vh 0.5vw;
     float: left;
-    border: 1px solid #272B2F ;
+    border: 1px solid ;
+    text-align: center;
+    border: 2px solid white;
+    
+    font-size: 18px;
+    padding: 0.5vh 0 0 0;
+    border-radius: 10px;
 }
 .pay-box:hover{
-    border: 1px solid #ADD8E6;
+    border: 2px solid #20428F;
+}
+.pay-box img{
+    width: 6vw;
+    height: 12vh;
+    
+    margin: 0 0 0 0vw;
+}
+.pay-box  span{
+    color: black;
 }
 .icons{
     width: 4vw;
     height: 8vh;
-    margin: 2vh 0 0 1.5vw;
-    
+    margin: 2vh 0 0 1.5vw; 
 }
